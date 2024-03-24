@@ -17,8 +17,4 @@ we also created a server to send a movie details application.
 
 * After runnning all the application go to localhost:9000 proper application will work.
 * Note : if application not run. check the port in your system it might use already.
-
-
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
-
-https://youtu.be/C-u5WLJ9Yk4?si=OzwuHxRamHFDw7q6
+ 
